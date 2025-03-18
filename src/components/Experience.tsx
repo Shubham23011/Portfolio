@@ -7,7 +7,7 @@ const Experience = () => {
     {
       title: "Web Development Internship",
       company: "Business Web Solutions",
-      location: "Virtual",
+      location: "Remote",
       period: "Jan 2024 - Mar 2024",
       description: [
         "Gained expertise in front-end and back-end development through structured learning modules and hands-on projects aimed at building core development skills.",
@@ -17,7 +17,7 @@ const Experience = () => {
     {
       title: "Web Development Internship",
       company: "OctaNet Software Services",
-      location: "Virtual",
+      location: "Remote",
       period: "Sep 2023 - Oct 2023",
       description: [
         "Developed two wonderful projects which is based on Front End Development.",
